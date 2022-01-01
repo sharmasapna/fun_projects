@@ -22,4 +22,4 @@ Enjoy the visualization!
 
 
 
-<img src= "https://github.com/sharmasapna/fun_projects/blob/main/data/GIF-211231_220804.gif" >
+<img src= "https://github.com/sharmasapna/fun_projects/blob/main/data/GIF-211231_220804.gif" width=50% height=50% >
