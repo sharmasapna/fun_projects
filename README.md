@@ -16,7 +16,6 @@ Red dots indicate a day with no activity and the dot size represent the length o
 
 
 
-<img src="https://github.com/sharmasapna/fun_projects/blob/main/data/my_run_walk_bike_stats.png" width=50% height=50% >
 
 Enjoy the visualization! 
 
